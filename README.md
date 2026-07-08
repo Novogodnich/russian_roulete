@@ -1,4 +1,4 @@
-"""# 🎰 Linux Russian Roulette (Java Edition)
+# 🎰 Linux Russian Roulette (Java Edition)
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![OS: Linux](https://img.shields.io/badge/OS-Linux-orange.svg)](https://www.linux.org/)
